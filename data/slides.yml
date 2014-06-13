@@ -1,0 +1,337 @@
+- description: >
+    Welcome to [Design Orlando](http://designorlan.do)!
+
+- description: >
+    You can find us on Twitter
+    [@designorlandofl](http://twitter.com/designorlandofl), and our website is
+    [http://designorlan.do](http://designorlan.do).
+
+- description: >
+    This is our 20th Design Orlando!
+
+- description: >
+    I'm Drew Barontini. You can find me on Twitter
+    [@drewbarontini](http://twitter.com/drewbarontini).
+
+- description: >
+    This talk is called, "Sketchocalypse".
+
+- description: >
+    So what's on the agenda?
+
+
+    We're going to:
+
+
+    - Give an overview of Sketch
+
+    - Talk about some of the main, primary features
+
+    - Talk about some of the lesser-known features
+
+    - Sprinkle in a lot of demos throughout
+
+- title: What is Sketch?
+  description: >
+    Sketch is a modern design application for modern graphic designers.
+
+
+    Sketch feels just like that. It feels like an application built for the way
+    that we're building sites and applications today. Our sites need to be
+    flexible, responsive, and work across multiple screen sizes and devices.
+    Sketch helps us work in this way more efficiently.
+
+- title: What is Sketch Good For?
+  description: >
+    You can use Sketch for the same things you'd use any design application.
+
+
+    Things like:
+
+
+    - User Interface Design
+
+    - Web and Application Design
+
+    - Mobile Application Design
+
+    - Illustration
+
+- description: >
+    I really like this quote from Sketch's site. This plays back into what we
+    were talking about before with Sketch being a *modern* design application.
+    It just works how we work.
+
+- description: >
+    And a lot of it has to do with the Sketch community. There are a lot of
+    designers that are contributing to the Sketch ecosystem, and it helps to
+    improve the application.
+
+- description: >
+    There's even a [list](http://bohemiancoding.com/sketch/resources/community/)
+    of "Community" sites right on the Sketch website.
+
+- description: >
+    [Sketch App Sources](http://www.sketchappsources.com/) provides Sketch
+    resources, tutorials, tips, articles, and more.
+
+- description: >
+    [http://sketchresources.com/](http://sketchresources.com/) provides
+    high-quality Sketch resources, which are great for learning by looking
+    through other people's Sketch source files.
+
+- description: >
+    You can find these links and more Sketch resources
+    [here](https://pinboard.in/u:drewbarontini/t:sketch).
+
+- description: >
+    This is what the Sketch interface looks like. It's comprised of four parts.
+
+- description: >
+    The big white are is the **Canvas**, and it's where you will work. The
+    **Canvas** is infinite, but you can defined confined spaces, and we'll talk
+    about that in a bit.
+
+- description: >
+    The top bar is the **Toolbar**, and it has a lot of useful options for
+    creating and editing shapes. If you want to customize what's in this bar,
+    right-click on the Toolbar and select `Customize Toolbar`.
+
+- description: >
+    Next we have the **Layer List**, which functions just how it would in
+    Photoshop or Illustrator. All of your layers will show up here, and you can
+    group, sort, and search any of your layers.
+
+- description: >
+    Finally, we have the **Inspector**, which is where you will spend most of
+    your time. In this panel, you will edit your text and shapes, adding
+    colors, borders, blending modes, and a whole lot more.
+
+- title: Primary Features
+  description: >
+    So now, let's talk about some of the primary features of Sketch.
+
+- title: Vector
+  description: >
+    First off, Sketch is entirely vector. Everything you create will scale to
+    any size, just like any vector would.
+
+- description: >
+    We can see here that we've drawn a shape, and while we're zoomed in to
+    `800%`, the shape is still nice and crisp.
+
+- description: >
+    However, in Sketch, you can also opt to see this vector shape in a **Pixel
+    View**, which will make the shape appear bitmapped. This is useful if you
+    want to see the pixels, and make very detailed adjustments to your design.
+
+- title: Symbols
+  description: >
+    One of my favorite Sketch features is **Symbols**, which are new to Sketch
+    3.  You can think about **Symbols** in Sketch like you would vector smart
+    objects in Photoshop. Essentially, you can create an object, duplicate it,
+    and whenever you alter any instance of that object, they all change.
+
+- title: Demo Time!
+  description: >
+    A short demo of **Symbols** in Sketch.
+
+- title: Text Styles
+  description: >
+    Similar to the concept of **Symbols** are **Text Styles**. With **Text
+    Styles**, you can set specific styles on your text elements, and easily add
+    that style across your document. I like to think of it like headings in
+    HTML. You have an `<h1>` with certain styles, an `<h2>` with certain
+    styles, and so on and so forth.
+
+- title: Demo Time!
+  description: >
+    A short demo of **Text Styles** in Sketch.
+
+- title: Artboards
+  description: >
+    **Artboards** in Sketch are just like those in Illustrator. You can create an
+    artboard at a set size within your **Canvas** to work. Additionally, in Sketch,
+    when you select to create an artboard, you have the ability to chose from a
+    set of preset templates, such as an iOS icon, a desktop browser size,
+    iPhone/iPad size, as well as other standard presets.
+
+
+    ## PAGES
+
+
+    **Pages** are somewhat similar to Layer Comps in Photoshop, but much much
+    better. With **Pages**, you can easily create multiple documents within your
+    document, and easily use things like **Symbols** across all pages within a
+    document.
+
+- title: Demo Time!
+  description: >
+    A short demo of **Artboards & Pages** in Sketch.
+
+- title: Smart Guides
+  description: >
+    **Smart Guides** in Sketch will help you align everything easily and
+    accurately.
+
+- title: Demo Time!
+  description: >
+    A short demo of **Smart Guides** in Sketch.
+
+- title: Auto Save & Versions
+  description: >
+    **Auto Save** and **Versions** are more primary features that are super
+    useful in Sketch.
+
+- title: Auto Save
+  description: >
+    As you'd expect, **Auto Save** will automatically save out versions of your
+    document as you work.
+
+- description: >
+    When you go to `File > Revert To`, you can see the saved versions, and
+    revert, if need be.
+
+- title: Export
+  description: >
+    Keeping with the theme of Sketch being a modern design application, the
+    **Export** feature really plays to that.
+
+- description: >
+    Here we have a few different shapes we've created.
+
+- description: >
+    And you can see this `Make Exportable` option down in the bottom right of
+    the **Inspector**.
+
+- description: >
+    When we click it, we get the option to export a `1x` `PNG` image. I did say
+    that Sketch is a modern design application, right? So let's do more.
+
+- description: >
+    When we click the plus at the top right, we now get a second export, which
+    is a `2x` (two times the size) `PNG`. So, we're saving out a regular `1x`
+    version, and a retina-ready version all in the same pass.
+
+- description: >
+    If we click the plus again, we can even save out a different filetype (in
+    this case, an `SVG`).
+
+- description: >
+    Now we have our two `PNG`s, as well as an `SVG`, all exported in one pass.
+
+- title: Sketch Mirror
+  description: >
+    **Sketch Mirror** is an iOS application that you can connect to an instance
+    of Sketch running on your Mac, and then live design and preview right on
+    the device.
+
+- description: >
+    You can to create multiple **Artboards** and swipe between them on your
+    device.
+
+- description: >
+    And you can even preview both iPhone and iPad **Artboards** on the
+    respective device at the same time.
+
+- title: Hidden Features
+  description: >
+    Okay, now that we've covered the primary features, let's talk about some
+    lesser-known, but just as useful, features.
+
+- title: Make Grid
+  description: >
+    **Make Grid** allows you to easily create a grid of objects, which is
+    useful for rapid prototyping.
+
+- title: Demo Time!
+  description: >
+    A short demo of **Smart Guides** in Sketch.
+
+- title: Math
+  description: >
+    Sketch gives you the ability to use various math operations within the
+    **Inspector**, which makes it easy to, for example, reduce the size of an
+    object by half.
+
+- title: Demo Time!
+  description: >
+    A short demo of **Math** in Sketch.
+
+- title: Common Colors
+  description: >
+    As you use colors in your document, Sketch will find the most common ones
+    and put them at the top of your swatches panel.
+
+- title: Demo Time!
+  description: >
+    A short demo of **Common Colors** in Sketch.
+
+- title: Text Lists
+  description: >
+    Although this is a really small thing, it's really useful. You can write
+    out a line-by-line list, and convert it to a bulletted or numbered list,
+    just like you'd have in HTML.
+
+- title: Demo Time!
+  description: >
+    A short demo of **Text Lists** in Sketch.
+
+- title: CSS Styles
+  description: >
+    As a front-end developer, I can't recommend that you do this, but it's
+    still useful to know about. In Sketch, you can right-click on any object
+    and copy the CSS styles for that particular object.
+
+- title: Demo Time!
+  description: >
+    A short demo of **CSS Styles** in Sketch.
+
+- title: Quick Export
+  description: >
+    A really quick and useful shortcut to exporting a `1x` `PNG` is to simply
+    drag it out of the **Layer List** right onto your desktop.
+
+- title: Demo Time!
+  description: >
+    A short demo of **Quick Export** in Sketch.
+
+- title: Rotate Copies
+  description: >
+    In Sketch, you can easily take a shape and rotate a set of copies of that
+    shape to, for example, create an icon.
+
+- title: Demo Time!
+  description: >
+    A short demo of **Rotate Copies** in Sketch.
+
+- title: Presentation Mode
+  description: >
+    Hit `command` + `.`, or go to `View > Presentation Mode` to remove all of
+    the extraneous interface elements.
+
+- title: Demo Time!
+  description: >
+    A short demo of **Presentation Mode** in Sketch.
+
+- title: Keyboard Shortcuts
+  description: >
+    Here are a set of useful keyboard shortcuts in Sketch.
+
+- title: Sketch Shortcuts
+  description: >
+    You can find more Sketch keyboard shortcuts at
+    [http://sketchshortcuts.com/](http://sketchshortcuts.com/).
+
+- title: Conclusion
+  description: >
+    Sketch might not be for you, but I do encourage you to download the trial
+    and give it a go. It's only **$79.99** (I say "only" because the apps I'd
+    compare it to cost quite a bit more than that). There are a lot of great
+    resources and designers out there using it, so you can always find help if
+    you need it.
+
+- title: Thanks
+  description: >
+    Full slides:
+    [http://talks.drewb.io/sketchocalypse/#/](http://talks.drewb.io/sketchocalypse/#/).
