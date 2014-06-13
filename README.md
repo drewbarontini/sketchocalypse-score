@@ -1,5 +1,5 @@
-Sketchocalpse Score
-===================
+Sketchocalypse Score
+====================
 
 Setup
 -----
