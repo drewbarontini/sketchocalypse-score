@@ -36,6 +36,15 @@
     width: 0
     height: 150%
 
+// ----- Stretch ----- //
+
+.stretch
+  bottom: 0
+  left: 0
+  position: absolute
+  right: 0
+  top: 0
+
 // -------------------------------------
 //   Background
 // -------------------------------------
@@ -240,6 +249,15 @@
   position: relative
 .pos
   position: static
+
+// -------------------------------------
+//   Responsiveness
+// -------------------------------------
+
+.mbmbfm--desk
+  margin-bottom: $b-whitespace
+  +respond-to($breakpoint-desk)
+    margin-bottom: 0
 
 // -------------------------------------
 //   Rounding
